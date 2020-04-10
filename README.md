@@ -1,5 +1,5 @@
 # Privacy Policy
-This policy applies to all information collected or submitted on 4SocialNetwork app for Apple devices.
+This policy applies to all information collected or submitted on Vibrah app for Apple devices.
 
 ## Information we collect
 We don’t collect any information - image or personal info.
